@@ -1,0 +1,8 @@
+{
+  "name": "FOOTBALL UNIVERSE",
+  "description": "Global football intelligence dashboard featuring world football news, league tables, player analytics, quizzes, Manager Career mode, and Player Career creator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
